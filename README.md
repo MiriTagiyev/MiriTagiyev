@@ -100,7 +100,7 @@
 </p>
 
 <p>Total visitors till now 👇❤️</p>
-<img src="https://profile-counter.glitch.me/nitindahiya199/count.svg">
+<img src="https://profile-counter.glitch.me/MiriTagiyev/count.svg?start=10">
 
 ---
 
