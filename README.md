@@ -58,7 +58,7 @@
 ### Backend Development:
 
 &emsp;
-![C#](https://img.shields.io/badge/-C%-000?logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-000?logo=csharp)
 ![MVC](https://img.shields.io/badge/-MVC-000?logo=dotnet)
 
 ### Misc Tools:
