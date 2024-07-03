@@ -43,6 +43,7 @@
 
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 ### Frontend Development:
 
@@ -51,6 +52,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=Next.js)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?logo=Material-UI)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?logo=Tailwind%20CSS)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
@@ -69,6 +72,8 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-000?logo=GitLab)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
+![Trello](https://img.shields.io/badge/-Trello-000?logo=Trello)
+![Figma](https://img.shields.io/badge/-Figma-000?logo=Figma)
 
 ### Databases:
 
